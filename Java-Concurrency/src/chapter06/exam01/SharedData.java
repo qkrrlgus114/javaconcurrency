@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06.exam01;
 
 public class SharedData {
     private int sharedValue = 0;

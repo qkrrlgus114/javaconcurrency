@@ -1,4 +1,4 @@
-package io.concurrency.chapter10.exam11;
+package chapter10.exam11;
 
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.RejectedExecutionHandler;
